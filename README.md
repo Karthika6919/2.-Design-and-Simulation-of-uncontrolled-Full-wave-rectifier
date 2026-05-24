@@ -1,4 +1,3 @@
-# 2.-Design-and-Simulation-of-uncontrolled-Full-wave-rectifier
 ## AIM
 To design, simulate and analyse Full wave rectifier (Uncontrolled) in MATLAB Simulink.
 ## APPARATUS REQUIRED
@@ -55,5 +54,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+<img width="1244" height="552" alt="Screenshot 2026-05-24 113304" src="https://github.com/user-attachments/assets/8b5c3f12-2375-4ac8-83d2-b6bc495233f3" />
+
 ## Output
+<img width="1917" height="900" alt="Screenshot 2026-05-24 113246" src="https://github.com/user-attachments/assets/b6667280-2d3a-407b-a136-dfdba1d43a2c" />
+
 ## Result
+Hence, designed, simulated and analysed Full wave rectifier (Uncontrolled) in MATLAB Simulink.
